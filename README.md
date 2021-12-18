@@ -5,6 +5,11 @@
 A WordPress Plugin that creates CRUD operations on fatwa custom post type using the WPGraphQL API. The implementation includes registering custom post type and making it hookable by WPGraphQL, adding custom fields, in addition, making these custom fields available to different CRUD operations.
 The plugin was implemented to be compliant with the code architecture of the WPGraphQL open-source plugin.
 
+## Version
+
+0.1.0
+
+
 ## Fatwa Operations
 
 - [x] Register CPT.
