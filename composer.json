@@ -1,0 +1,20 @@
+{
+  "name": "mohjak/islamqa",
+  "description": "IslamQA core plugin",
+  "type": "wordpress-plugin",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Mohammad jaqmaqji",
+      "email": "mohjak@gmail.com"
+    }
+  ],
+  "require": {},
+  "require-dev": {},
+  "scripts": {},
+  "autoload": {
+    "psr-4": {
+      "IslamQA\\": "src/"
+    }
+  }
+}
